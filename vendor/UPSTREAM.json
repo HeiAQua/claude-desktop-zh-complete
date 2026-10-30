@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/javaht/claude-desktop-zh-cn",
+  "commit": "4f0e457a0d161a97c39c9a64d4ded7fa68e2e7f2",
+  "license": "MIT",
+  "changes": "library.ps1: retained function definitions and initial variables; removed interactive/action dispatcher and Start-InstallLog invocation; UTF-8 BOM for PowerShell 5.1",
+  "sha256": {
+    "LICENSE": "e729f6cefd3599b6c02a6a1218b99e8742723d3d1e513b927656998e9d0732c0",
+    "resources/desktop-zh-CN.json": "875112ea24433e9bf88cdd44e71a2c46c30f09df5fb932417f20149cc0b81a70",
+    "resources/frontend-hardcoded-zh-CN.json": "0c3c36951c09cc5983b9eb37a7d7da659e8ebc833d9ea32a6d70d9255f457750",
+    "resources/frontend-zh-CN.json": "4a84efd29ef3ce65fd5a3cbbfdb0ab74aff3ceeb4ed246e417a6ff04886ab603",
+    "resources/slash-command-glosses.json": "5662f88b864777fbfc84303eccce89ae29ecf279b7fe2baca2b09e3b37487f48",
+    "resources/slash-command-menu-patch.json": "3d0e46a10d9c2eb4cafe162c52f3aa1c92998699ce16491c3b53aa80fee4d818",
+    "resources/statsig-zh-CN.json": "c778fa95fccc11e8bc8497fce41dded336948df8d6f4cd98d3226c6ba26f8b4e",
+    "scripts/library.ps1": "16c7df9a65339160db289f1151e5e53d4491bdc019ca69cb6bda1ec06ad53ac1"
+  }
+}

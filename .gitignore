@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.work/
+jobs/
+backups/
+*.log
+*.db
+*.asar
+*.exe
+manifest.json
+config.json
+.env*
