@@ -29,7 +29,3 @@
 建议 Topics：`vocabulary`、`mathematics`、`calculus`、`javascript`、`learning`。
 
 以上是待填写建议，不能把它们视为已经修改了 GitHub 仓库设置。
-
-## 待归档的独立内容
-
-wordbank 的 [PR #1](https://github.com/HeiAQua/wordbank/pull/1) 包含微视频企划书，与词库功能无关。本次整理保留该 PR 和分支；如以后迁移，应先在独立项目确认文件完整，再由维护者决定关闭旧 PR。
