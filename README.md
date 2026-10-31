@@ -4,6 +4,8 @@
 
 **已在 Windows Claude Desktop 4.4212.0 实机验证最终界面。** 自动化脚本固定支持这一版本；不承诺未来版本或所有第三方插件都能完整汉化。macOS / Linux 请使用上游项目，本仓库的附加脚本不支持它们。
 
+[安装与复现](docs/REPRODUCE.md) · [兼容范围](docs/COMPATIBILITY.md) · [验证记录](docs/VALIDATION.md) · [项目导航](docs/PROJECTS.md) · [反馈问题](https://github.com/HeiAQua/claude-desktop-zh-complete/issues/new/choose)
+
 ## 以后只给 Codex 这个仓库网址
 
 把仓库首页网址发给 Codex，并说：
